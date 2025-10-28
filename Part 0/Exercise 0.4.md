@@ -22,4 +22,3 @@ sequenceDiagram
     deactivate S
 
     B->>U: 8. Displays the reloaded page with the new note added to the list
-    ```

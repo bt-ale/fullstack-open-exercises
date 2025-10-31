@@ -1,3 +1,6 @@
+# Exercise 0.5
+
+```mermaid
 sequenceDiagram
     participant U as User
     participant B as Browser
